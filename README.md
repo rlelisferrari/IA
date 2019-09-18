@@ -1,7 +1,7 @@
 # IA
-Nome: Rafael Lelis Ferrari
+Autor: Rafael Lelis Ferrari
 
-Disciplina: Intelgência Artificial do mestrado em computação aplicada do IFES
+Linguagem: Desenvolvido em Python3 utilizando ambiente Anaconda.
 
 # USAGE
 python trabFinal.py --training images/training --testing images/testing
