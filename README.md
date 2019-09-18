@@ -8,6 +8,9 @@ python trabFinal.py --training images/training --testing images/testing
 
 # Pacotes necessários
 scikit-learn
+
 cv2 (opencv-python)
+
 argparse-utils
+
 imutils
